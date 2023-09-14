@@ -1,6 +1,8 @@
 package GestionClubDeportivo;
 
 import java.util.ArrayList;
+import java.util.Collection;
+
 import GestionClubDeportivo.Jugador;
 import GestionClubDeportivo.PartidoJugado;
 
@@ -25,5 +27,13 @@ public class Equipo {
 		this.entrenador = entrenador;
 		this.deporte = deporte;
 		this.partidosjugados = partidosjugados;
+	}
+
+	public void agregarJugador(Jugador jugador) {
+		jugadores.add(jugador);
+	}
+
+	public ArrayList<Jugador> getJugadores() {
+		return this.jugadores;
 	}
 	}

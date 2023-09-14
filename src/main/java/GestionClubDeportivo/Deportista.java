@@ -54,4 +54,6 @@ public abstract class Deportista {
 		this.numeroContacto = numeroContacto;
 		this.posicionRol = posicionRol;
 	}
-	}
+
+
+}

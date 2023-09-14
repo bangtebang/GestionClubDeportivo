@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7f239e9-9d4e-4efe-a6fb-f3a6c4eb3631" name="Changes" comment="subo constructores creados">
-      <change afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/ClubDeportivo.java" afterDir="false" />
+    <list default="true" id="b7f239e9-9d4e-4efe-a6fb-f3a6c4eb3631" name="Changes" comment="subo metodos y clase para agregar jugadores y entrenadores">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/ClubDeportivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/ClubDeportivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Deportista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Deportista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Equipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Equipo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694696065384</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="subo metodos y clase para agregar jugadores y entrenadores">
+      <created>1694697305279</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694697305279</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="subo rama main" />
     <MESSAGE value="subo nueva rama y codigo creado automatico mas modelo uml" />
     <MESSAGE value="subo constructores creados" />
-    <option name="LAST_COMMIT_MESSAGE" value="subo constructores creados" />
+    <MESSAGE value="subo metodos y clase para agregar jugadores y entrenadores" />
+    <option name="LAST_COMMIT_MESSAGE" value="subo metodos y clase para agregar jugadores y entrenadores" />
   </component>
 </project>
