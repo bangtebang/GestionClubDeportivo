@@ -12,3 +12,9 @@ para ello dentro del progra se implementaron las siguientes clases:
 -Tenis(clase hija de Deporte)
 las cuales estan asociadas como se muestran en el modelo uml.
 Tambien para resolver el problema se implementaron las siguientes funciones:
+-crearEquipo
+-crearJugador
+-crearEntrenador
+-asignarJugadorEquipo
+-registrarPartido
+-consultarEstadisticasJugador

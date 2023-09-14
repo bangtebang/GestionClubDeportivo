@@ -1,11 +1,14 @@
 package GestionClubDeportivo;
 
+import java.util.ArrayList;
+
 public abstract class Deportista {
 	private String nombre;
 	private String apellido;
 	private String direccionCorreo;
 	private int numeroContacto;
 	private String posicionRol;
+	private ArrayList<PartidoJugado> partidosJugados = new ArrayList<PartidoJugado>();
 
 	public String getNombre() {
 		return this.nombre;
@@ -54,6 +57,4 @@ public abstract class Deportista {
 		this.numeroContacto = numeroContacto;
 		this.posicionRol = posicionRol;
 	}
-
-
 }
