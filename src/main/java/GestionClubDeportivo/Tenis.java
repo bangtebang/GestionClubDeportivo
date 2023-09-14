@@ -20,7 +20,9 @@ public class Tenis extends Deporte {
 		this.tipoPartido = tipoPartido;
 	}
 
-	public Tenis() {
-		throw new UnsupportedOperationException();
+	public Tenis(String nombre,Equipo equipo, String tipoSuperficie, String tipoPartido) {
+		super(nombre,equipo);
+		this.tipoSuperficie = tipoSuperficie;
+		this.tipoPartido = tipoPartido;
 	}
 }

@@ -12,7 +12,8 @@ public abstract class Deporte {
 		this.nombre = nombre;
 	}
 
-	public Deporte() {
-		throw new UnsupportedOperationException();
+	public Deporte(String nombre, Equipo equipo) {
+		this.nombre = nombre;
+		this.equipo = equipo;
 	}
 }

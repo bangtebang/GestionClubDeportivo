@@ -21,7 +21,10 @@ public class Entrenador extends Deportista {
 		this.especialidadDeportiva = especialidadDeportiva;
 	}
 
-	public Entrenador() {
-		throw new UnsupportedOperationException();
+	public Entrenador(String nombre,String apellido,String direccionCorreo,int numeroContacto,String posicionRol,String experiencia,String especialidadDeportiva,Equipo equipo) {
+		super(nombre,apellido,direccionCorreo,numeroContacto,posicionRol);
+		this.experiencia = experiencia;
+		this.especialidadDeportiva = especialidadDeportiva;
+		this.equipo = equipo;
 	}
 }

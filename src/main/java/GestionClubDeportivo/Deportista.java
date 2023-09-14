@@ -47,7 +47,11 @@ public abstract class Deportista {
 		this.posicionRol = posicionRol;
 	}
 
-	public Deportista() {
-		throw new UnsupportedOperationException();
+	public Deportista(String nombre, String apellido, String direccionCorreo, int numeroContacto, String posicionRol) {
+		this.nombre = nombre;
+		this.apellido = apellido;
+		this.direccionCorreo = direccionCorreo;
+		this.numeroContacto = numeroContacto;
+		this.posicionRol = posicionRol;
 	}
-}
+	}

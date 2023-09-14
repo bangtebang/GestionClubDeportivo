@@ -20,7 +20,9 @@ public class Futbol extends Deporte {
 		this.tipoPartido = tipoPartido;
 	}
 
-	public Futbol() {
-		throw new UnsupportedOperationException();
+	public Futbol(String nombre,Equipo equipo, String tipoCampo, String tipoPartido) {
+		super(nombre,equipo);
+		this.tipoCampo = tipoCampo;
+		this.tipoPartido = tipoPartido;
 	}
 }

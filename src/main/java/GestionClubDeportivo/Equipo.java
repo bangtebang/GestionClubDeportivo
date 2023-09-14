@@ -19,7 +19,11 @@ public class Equipo {
 		this.nombre = nombre;
 	}
 
-	public Equipo() {
-		throw new UnsupportedOperationException();
+	public Equipo(String nombre, ArrayList<Jugador> jugadores, Entrenador entrenador, Deporte deporte, ArrayList<PartidoJugado> partidosjugados) {
+		this.nombre = nombre;
+		this.jugadores = jugadores;
+		this.entrenador = entrenador;
+		this.deporte = deporte;
+		this.partidosjugados = partidosjugados;
 	}
-}
+	}

@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7f239e9-9d4e-4efe-a6fb-f3a6c4eb3631" name="Changes" comment="subo rama main">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b7f239e9-9d4e-4efe-a6fb-f3a6c4eb3631" name="Changes" comment="subo nueva rama y codigo creado automatico mas modelo uml">
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Baloncesto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Baloncesto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Deporte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Deporte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Deportista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Deportista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Entrenador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Entrenador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Equipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Equipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Futbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Futbol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Jugador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Jugador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/PartidoJugado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/PartidoJugado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Tenis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GestionClubDeportivo/Tenis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +62,19 @@
       <option name="project" value="LOCAL" />
       <updated>1694691317806</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="subo nueva rama y codigo creado automatico mas modelo uml">
+      <created>1694695514296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694695514296</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="subo rama main" />
-    <option name="LAST_COMMIT_MESSAGE" value="subo rama main" />
+    <MESSAGE value="subo nueva rama y codigo creado automatico mas modelo uml" />
+    <option name="LAST_COMMIT_MESSAGE" value="subo nueva rama y codigo creado automatico mas modelo uml" />
   </component>
 </project>
